@@ -1,0 +1,19 @@
+{
+  "name": "simple-cli-tool",
+  "version": "0.1.0",
+  "description": "A lightweight command-line tool for simplifying daily development tasks.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "utility"
+  ],
+  "author": "[TODO: 你的名字]",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
